@@ -32,11 +32,11 @@
 
 <div align="center">
 
-|---------------|---------------|-----------------|------------------|
-| **🤖 Autonomous Car Vision** | ESP32, YOLOv5, OpenCV | 
-| **⚡ Smart Battery Monitor** | PIC16F877A, Embedded C | 
-| **🛡️ Fraud Detection Shield** | PHP, MySQL, JavaScript |
-| **🌤️ Weather Prediction AI** | Python, Machine Learning | 
+ <br> |---------------|---------------|-----------------|------------------|</br>
+<br> | **🤖 Autonomous Car Vision** | ESP32, YOLOv5, OpenCV | </br> 
+<br> | **⚡ Smart Battery Monitor** | PIC16F877A, Embedded C | </br> 
+<br> | **🛡️ Fraud Detection Shield** | PHP, MySQL, JavaScript |</br> 
+<br> | **🌤️ Weather Prediction AI** | Python, Machine Learning | </br> 
 
 </div>
 
