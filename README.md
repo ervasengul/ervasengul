@@ -40,27 +40,15 @@
 
 </div>
 
-## 💫 Women in STEM Statistics
+## 💫 Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ervasengul&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervasengul&theme=material-palenight&hide_border=true&background=0D1117&stroke=E91E63&ring=FF6B9D&fire=E91E63&currStreakLabel=FF6B9D" alt="Coding Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervasengul&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" alt="Top Languages" />
 </div>
-
-
-## 🎓 Knowledge Arsenal & Certifications
-
-- 🚀 **Advanced Web Development Mastery** - Udemy Certified
-- 🤖 **IBM AI Foundations** - Artificial Intelligence Specialist
-
-
 
 ## 💌 Let's Connect & Collaborate
 
@@ -70,18 +58,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ervasengul)
 [![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervasengul004@gmail.com)
 
-**🤝 Open to mentoring aspiring women in tech!**
-
-</div>
-
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ervasengul&color=E91E63&style=for-the-badge" alt="Profile Views" />
-</div>
-
-
-<div align="center">
 
 ```
 ██╗    ██╗ ██████╗ ███╗   ███╗███████╗███╗   ██╗    ██╗███╗   ██╗    ███████╗████████╗███████╗███╗   ███╗
