@@ -28,18 +28,6 @@
 </div>
 
 
-## 🌟 Projects 
-
-<div align="center">
-
- <br> |---------------|---------------|-----------------|------------------|</br>
-<br> | **🤖 Autonomous Car Vision** | ESP32, YOLOv5, OpenCV | </br> 
-<br> | **⚡ Smart Battery Monitor** | PIC16F877A, Embedded C | </br> 
-<br> | **🛡️ Fraud Detection Shield** | PHP, MySQL, JavaScript |</br> 
-<br> | **🌤️ Weather Prediction AI** | Python, Machine Learning | </br> 
-
-</div>
-
 ## 💫 Statistics
 
 <div align="center">
@@ -72,8 +60,4 @@
 
 </div>
 
-<div align="center">
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-</div>
+
