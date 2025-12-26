@@ -1,4 +1,4 @@
-# 👩‍💻 ERVA SENGUL 
+#  ERVA ŞENGÜL 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG" />
@@ -28,7 +28,7 @@
 </div>
 
 
-## 💫 Statistics
+## Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ervasengul&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
