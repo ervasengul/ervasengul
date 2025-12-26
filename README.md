@@ -3,6 +3,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+<div align="center">
+  <a href="https://www.ervasengul.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ervasengul.com-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<div align="center">
 
 
 <div align="center">
@@ -31,11 +38,15 @@
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervasengul&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ervasengul&theme=rose&hide_border=true&ring=E91E63&fire=E91E63&stroke=FF6B9D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervasengul&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ervasengul&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ervasengul&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ## 💌 Let's Connect & Collaborate
