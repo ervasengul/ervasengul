@@ -37,9 +37,7 @@
 
 ## Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ervasengul&theme=rose&hide_border=true&ring=E91E63&fire=E91E63&stroke=FF6B9D" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ervasengul&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=FF6B9D&text_color=FFFFFF" alt="GitHub Stats" />
